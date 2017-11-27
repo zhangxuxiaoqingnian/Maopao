@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-            ///c测试2
+
         Integer[] arr={5,3,2,6,1,4};
         for (int i = 0; i < arr.length; i++) {
             int tem;
@@ -32,4 +32,5 @@ public class MainActivity extends AppCompatActivity {
             System.out.println(arr[i]);
         }
     }
+    //ceshi
 }
